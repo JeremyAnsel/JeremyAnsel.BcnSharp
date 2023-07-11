@@ -1,5 +1,6 @@
 # JeremyAnsel.BcnSharp
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ycubxjdfryf40rwl/branch/main?svg=true)](https://ci.appveyor.com/project/JeremyAnsel/jeremyansel-bcnsharp/branch/main)
 [![NuGet Version](https://buildstats.info/nuget/JeremyAnsel.BcnSharp)](https://www.nuget.org/packages/JeremyAnsel.BcnSharp)
 ![License](https://img.shields.io/github/license/JeremyAnsel/JeremyAnsel.BcnSharp)
 
