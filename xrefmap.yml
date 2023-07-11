@@ -1,0 +1,147 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: JeremyAnsel.BcnSharp
+  name: JeremyAnsel.BcnSharp
+  href: api/JeremyAnsel.BcnSharp.html
+  commentId: N:JeremyAnsel.BcnSharp
+  fullName: JeremyAnsel.BcnSharp
+  nameWithType: JeremyAnsel.BcnSharp
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp
+  name: Bc7Sharp
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html
+  commentId: T:JeremyAnsel.BcnSharp.Bc7Sharp
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp
+  nameWithType: Bc7Sharp
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.CreateDecodedArray(System.Int32,System.Int32)
+  name: CreateDecodedArray(int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_CreateDecodedArray_System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.CreateDecodedArray(System.Int32,System.Int32)
+  name.vb: CreateDecodedArray(Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.CreateDecodedArray(int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.CreateDecodedArray(Integer, Integer)
+  nameWithType: Bc7Sharp.CreateDecodedArray(int, int)
+  nameWithType.vb: Bc7Sharp.CreateDecodedArray(Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.CreateDecodedArray*
+  name: CreateDecodedArray
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_CreateDecodedArray_
+  commentId: Overload:JeremyAnsel.BcnSharp.Bc7Sharp.CreateDecodedArray
+  isSpec: "True"
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.CreateDecodedArray
+  nameWithType: Bc7Sharp.CreateDecodedArray
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.CreateEncodedArray(System.Int32,System.Int32)
+  name: CreateEncodedArray(int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_CreateEncodedArray_System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.CreateEncodedArray(System.Int32,System.Int32)
+  name.vb: CreateEncodedArray(Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.CreateEncodedArray(int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.CreateEncodedArray(Integer, Integer)
+  nameWithType: Bc7Sharp.CreateEncodedArray(int, int)
+  nameWithType.vb: Bc7Sharp.CreateEncodedArray(Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.CreateEncodedArray*
+  name: CreateEncodedArray
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_CreateEncodedArray_
+  commentId: Overload:JeremyAnsel.BcnSharp.Bc7Sharp.CreateEncodedArray
+  isSpec: "True"
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.CreateEncodedArray
+  nameWithType: Bc7Sharp.CreateEncodedArray
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.Byte[],System.Byte[],System.Int32,System.Int32)
+  name: Decode(byte[], byte[], int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Decode_System_Byte___System_Byte___System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.Byte[],System.Byte[],System.Int32,System.Int32)
+  name.vb: Decode(Byte(), Byte(), Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(byte[], byte[], int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(Byte(), Byte(), Integer, Integer)
+  nameWithType: Bc7Sharp.Decode(byte[], byte[], int, int)
+  nameWithType.vb: Bc7Sharp.Decode(Byte(), Byte(), Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.Byte[],System.Int32,System.Int32)
+  name: Decode(byte[], int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Decode_System_Byte___System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.Byte[],System.Int32,System.Int32)
+  name.vb: Decode(Byte(), Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(byte[], int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(Byte(), Integer, Integer)
+  nameWithType: Bc7Sharp.Decode(byte[], int, int)
+  nameWithType.vb: Bc7Sharp.Decode(Byte(), Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
+  name: Decode(IntPtr, IntPtr, int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Decode_System_IntPtr_System_IntPtr_System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
+  name.vb: Decode(IntPtr, IntPtr, Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.IntPtr, System.IntPtr, int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.IntPtr, System.IntPtr, Integer, Integer)
+  nameWithType: Bc7Sharp.Decode(IntPtr, IntPtr, int, int)
+  nameWithType.vb: Bc7Sharp.Decode(IntPtr, IntPtr, Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.Decode*
+  name: Decode
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Decode_
+  commentId: Overload:JeremyAnsel.BcnSharp.Bc7Sharp.Decode
+  isSpec: "True"
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Decode
+  nameWithType: Bc7Sharp.Decode
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.Byte[],System.Byte[],System.Int32,System.Int32)
+  name: Encode(byte[], byte[], int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Encode_System_Byte___System_Byte___System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.Byte[],System.Byte[],System.Int32,System.Int32)
+  name.vb: Encode(Byte(), Byte(), Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(byte[], byte[], int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(Byte(), Byte(), Integer, Integer)
+  nameWithType: Bc7Sharp.Encode(byte[], byte[], int, int)
+  nameWithType.vb: Bc7Sharp.Encode(Byte(), Byte(), Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.Byte[],System.Int32,System.Int32)
+  name: Encode(byte[], int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Encode_System_Byte___System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.Byte[],System.Int32,System.Int32)
+  name.vb: Encode(Byte(), Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(byte[], int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(Byte(), Integer, Integer)
+  nameWithType: Bc7Sharp.Encode(byte[], int, int)
+  nameWithType.vb: Bc7Sharp.Encode(Byte(), Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
+  name: Encode(IntPtr, IntPtr, int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Encode_System_IntPtr_System_IntPtr_System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
+  name.vb: Encode(IntPtr, IntPtr, Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.IntPtr, System.IntPtr, int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.IntPtr, System.IntPtr, Integer, Integer)
+  nameWithType: Bc7Sharp.Encode(IntPtr, IntPtr, int, int)
+  nameWithType.vb: Bc7Sharp.Encode(IntPtr, IntPtr, Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.Encode*
+  name: Encode
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Encode_
+  commentId: Overload:JeremyAnsel.BcnSharp.Bc7Sharp.Encode
+  isSpec: "True"
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Encode
+  nameWithType: Bc7Sharp.Encode
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.GetDecodedArrayLength(System.Int32,System.Int32)
+  name: GetDecodedArrayLength(int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_GetDecodedArrayLength_System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.GetDecodedArrayLength(System.Int32,System.Int32)
+  name.vb: GetDecodedArrayLength(Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.GetDecodedArrayLength(int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.GetDecodedArrayLength(Integer, Integer)
+  nameWithType: Bc7Sharp.GetDecodedArrayLength(int, int)
+  nameWithType.vb: Bc7Sharp.GetDecodedArrayLength(Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.GetDecodedArrayLength*
+  name: GetDecodedArrayLength
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_GetDecodedArrayLength_
+  commentId: Overload:JeremyAnsel.BcnSharp.Bc7Sharp.GetDecodedArrayLength
+  isSpec: "True"
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.GetDecodedArrayLength
+  nameWithType: Bc7Sharp.GetDecodedArrayLength
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.GetEncodedArrayLength(System.Int32,System.Int32)
+  name: GetEncodedArrayLength(int, int)
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_GetEncodedArrayLength_System_Int32_System_Int32_
+  commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.GetEncodedArrayLength(System.Int32,System.Int32)
+  name.vb: GetEncodedArrayLength(Integer, Integer)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.GetEncodedArrayLength(int, int)
+  fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.GetEncodedArrayLength(Integer, Integer)
+  nameWithType: Bc7Sharp.GetEncodedArrayLength(int, int)
+  nameWithType.vb: Bc7Sharp.GetEncodedArrayLength(Integer, Integer)
+- uid: JeremyAnsel.BcnSharp.Bc7Sharp.GetEncodedArrayLength*
+  name: GetEncodedArrayLength
+  href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_GetEncodedArrayLength_
+  commentId: Overload:JeremyAnsel.BcnSharp.Bc7Sharp.GetEncodedArrayLength
+  isSpec: "True"
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.GetEncodedArrayLength
+  nameWithType: Bc7Sharp.GetEncodedArrayLength

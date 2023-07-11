@@ -1,0 +1,22 @@
+{
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "JeremyAnsel.BcnSharp",
+    "keywords": "JeremyAnsel.BcnSharp This is the documentation for JeremyAnsel.BcnSharp."
+  },
+  "api/JeremyAnsel.BcnSharp.Bc7Sharp.html": {
+    "href": "api/JeremyAnsel.BcnSharp.Bc7Sharp.html",
+    "title": "Class Bc7Sharp",
+    "keywords": "Class Bc7Sharp Inheritance object Bc7Sharp Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Namespace: JeremyAnsel.BcnSharp Assembly: JeremyAnsel.BcnSharp.dll Syntax public static class Bc7Sharp Methods | Improve this Doc View Source CreateDecodedArray(int, int) Declaration public static byte[] CreateDecodedArray(int width, int height) Parameters Type Name Description int width int height Returns Type Description byte[] | Improve this Doc View Source CreateEncodedArray(int, int) Declaration public static byte[] CreateEncodedArray(int width, int height) Parameters Type Name Description int width int height Returns Type Description byte[] | Improve this Doc View Source Decode(byte[], byte[], int, int) Declaration public static void Decode(byte[] pBlock, byte[] pPixelsRGBA, int width, int height) Parameters Type Name Description byte[] pBlock byte[] pPixelsRGBA int width int height | Improve this Doc View Source Decode(byte[], int, int) Declaration public static byte[] Decode(byte[] pBlock, int width, int height) Parameters Type Name Description byte[] pBlock int width int height Returns Type Description byte[] | Improve this Doc View Source Decode(IntPtr, IntPtr, int, int) Declaration public static void Decode(IntPtr pBlock, IntPtr pPixelsRGBA, int width, int height) Parameters Type Name Description IntPtr pBlock IntPtr pPixelsRGBA int width int height | Improve this Doc View Source Encode(byte[], byte[], int, int) Declaration public static void Encode(byte[] pBlock, byte[] pPixelsRGBA, int width, int height) Parameters Type Name Description byte[] pBlock byte[] pPixelsRGBA int width int height | Improve this Doc View Source Encode(byte[], int, int) Declaration public static byte[] Encode(byte[] pPixelsRGBA, int width, int height) Parameters Type Name Description byte[] pPixelsRGBA int width int height Returns Type Description byte[] | Improve this Doc View Source Encode(IntPtr, IntPtr, int, int) Declaration public static void Encode(IntPtr pBlock, IntPtr pPixelsRGBA, int width, int height) Parameters Type Name Description IntPtr pBlock IntPtr pPixelsRGBA int width int height | Improve this Doc View Source GetDecodedArrayLength(int, int) Declaration public static int GetDecodedArrayLength(int width, int height) Parameters Type Name Description int width int height Returns Type Description int | Improve this Doc View Source GetEncodedArrayLength(int, int) Declaration public static int GetEncodedArrayLength(int width, int height) Parameters Type Name Description int width int height Returns Type Description int"
+  },
+  "api/JeremyAnsel.BcnSharp.html": {
+    "href": "api/JeremyAnsel.BcnSharp.html",
+    "title": "Namespace JeremyAnsel.BcnSharp",
+    "keywords": "Namespace JeremyAnsel.BcnSharp Classes Bc7Sharp"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "JeremyAnsel.BcnSharp",
+    "keywords": "JeremyAnsel.BcnSharp JeremyAnsel.BcnSharp is a .Net library to encode and decode BCn BC7 texture compression format. It is based on the bc7enc_rdo library. See https://github.com/richgel999/bc7enc_rdo"
+  }
+}
