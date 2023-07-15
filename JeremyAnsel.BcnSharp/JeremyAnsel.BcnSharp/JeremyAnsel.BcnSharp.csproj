@@ -34,15 +34,15 @@
     <None Include="..\$(Configuration)\JeremyAnsel.BcnSharpLib32.dll">
       <Pack>true</Pack>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <PackagePath>build\</PackagePath>
+      <PackagePath>build;contentFiles</PackagePath>
     </None>
     <None Include="..\x64\$(Configuration)\JeremyAnsel.BcnSharpLib64.dll">
       <Pack>true</Pack>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <PackagePath>build\</PackagePath>
+      <PackagePath>build;contentFiles</PackagePath>
     </None>
     <None Include="JeremyAnsel.BcnSharp.targets">
-      <PackagePath>build\</PackagePath>
+      <PackagePath>build;contentFiles</PackagePath>
       <Pack>true</Pack>
     </None>
   </ItemGroup>
