@@ -22,11 +22,15 @@
     <ClCompile Include="bc7decomp.cpp" />
     <ClCompile Include="bc7enc.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="rgbcx.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bc7decomp.h" />
     <ClInclude Include="bc7enc.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="rgbcx.h" />
+    <ClInclude Include="rgbcx_table4.h" />
+    <ClInclude Include="rgbcx_table4_small.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="JeremyAnsel.BcnSharpLib64.rc" />
