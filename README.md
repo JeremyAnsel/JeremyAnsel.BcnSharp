@@ -4,7 +4,7 @@
 [![NuGet Version](https://buildstats.info/nuget/JeremyAnsel.BcnSharp)](https://www.nuget.org/packages/JeremyAnsel.BcnSharp)
 ![License](https://img.shields.io/github/license/JeremyAnsel/JeremyAnsel.BcnSharp)
 
-JeremyAnsel.BcnSharp is a .Net library to encode and decode BCn BC7 texture compression format.
+JeremyAnsel.BcnSharp is a .Net library to encode and decode BCn BC3 BC5 BC7 texture compression formats.
 
 Description     | Value
 ----------------|----------------

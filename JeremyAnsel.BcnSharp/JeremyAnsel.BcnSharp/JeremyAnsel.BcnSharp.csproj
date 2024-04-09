@@ -13,12 +13,12 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <ContinuousIntegrationBuild Condition="'$(CI)' == 'True'">true</ContinuousIntegrationBuild>
     <Version>1.0.0</Version>
-    <Description>A .Net library to encode and decode BCn texture compression formats.</Description>
+    <Description>A .Net library to encode and decode BCn BC3 BC5 BC7 texture compression formats.</Description>
     <Authors>Jérémy Ansel</Authors>
     <Company>Jérémy Ansel</Company>
     <Copyright>Copyright © 2023 Jérémy Ansel</Copyright>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
-    <PackageTags>CSharp DirectX Texture Image Compression BCn BC7 DXT RGBA Encoder Decoder</PackageTags>
+    <PackageTags>CSharp DirectX Texture Image Compression BCn BC3 BC5 BC7 DXT RGBA Encoder Decoder</PackageTags>
     <PackageProjectUrl>https://github.com/JeremyAnsel/JeremyAnsel.BcnSharp</PackageProjectUrl>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
   </PropertyGroup>
