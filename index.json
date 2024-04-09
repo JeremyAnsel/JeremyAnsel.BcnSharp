@@ -27,6 +27,6 @@
   "index.html": {
     "href": "index.html",
     "title": "JeremyAnsel.BcnSharp",
-    "keywords": "JeremyAnsel.BcnSharp JeremyAnsel.BcnSharp is a .Net library to encode and decode BCn BC7 texture compression format. It is based on the bc7enc_rdo library. See https://github.com/richgel999/bc7enc_rdo"
+    "keywords": "JeremyAnsel.BcnSharp JeremyAnsel.BcnSharp is a .Net library to encode and decode BCn BC3 BC5 BC7 texture compression formats. It is based on the bc7enc_rdo library. See https://github.com/richgel999/bc7enc_rdo"
   }
 }
