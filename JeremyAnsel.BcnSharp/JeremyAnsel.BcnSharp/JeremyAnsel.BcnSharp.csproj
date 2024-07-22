@@ -18,6 +18,7 @@
     <Company>Jérémy Ansel</Company>
     <Copyright>Copyright © 2023 Jérémy Ansel</Copyright>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>CSharp DirectX Texture Image Compression BCn BC3 BC5 BC7 DXT RGBA Encoder Decoder</PackageTags>
     <PackageProjectUrl>https://github.com/JeremyAnsel/JeremyAnsel.BcnSharp</PackageProjectUrl>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
@@ -26,6 +27,10 @@
 
   <ItemGroup>
     <None Include="..\..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\README.md">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
