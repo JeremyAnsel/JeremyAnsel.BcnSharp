@@ -64,13 +64,13 @@ references:
   nameWithType: Bc3Sharp.Decode(byte[], int, int)
   nameWithType.vb: Bc3Sharp.Decode(Byte(), Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc3Sharp.Decode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
-  name: Decode(IntPtr, IntPtr, int, int)
+  name: Decode(nint, nint, int, int)
   href: api/JeremyAnsel.BcnSharp.Bc3Sharp.html#JeremyAnsel_BcnSharp_Bc3Sharp_Decode_System_IntPtr_System_IntPtr_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.BcnSharp.Bc3Sharp.Decode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
   name.vb: Decode(IntPtr, IntPtr, Integer, Integer)
-  fullName: JeremyAnsel.BcnSharp.Bc3Sharp.Decode(System.IntPtr, System.IntPtr, int, int)
+  fullName: JeremyAnsel.BcnSharp.Bc3Sharp.Decode(nint, nint, int, int)
   fullName.vb: JeremyAnsel.BcnSharp.Bc3Sharp.Decode(System.IntPtr, System.IntPtr, Integer, Integer)
-  nameWithType: Bc3Sharp.Decode(IntPtr, IntPtr, int, int)
+  nameWithType: Bc3Sharp.Decode(nint, nint, int, int)
   nameWithType.vb: Bc3Sharp.Decode(IntPtr, IntPtr, Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc3Sharp.Decode*
   name: Decode
@@ -98,13 +98,13 @@ references:
   nameWithType: Bc3Sharp.Encode(byte[], int, int)
   nameWithType.vb: Bc3Sharp.Encode(Byte(), Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc3Sharp.Encode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
-  name: Encode(IntPtr, IntPtr, int, int)
+  name: Encode(nint, nint, int, int)
   href: api/JeremyAnsel.BcnSharp.Bc3Sharp.html#JeremyAnsel_BcnSharp_Bc3Sharp_Encode_System_IntPtr_System_IntPtr_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.BcnSharp.Bc3Sharp.Encode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
   name.vb: Encode(IntPtr, IntPtr, Integer, Integer)
-  fullName: JeremyAnsel.BcnSharp.Bc3Sharp.Encode(System.IntPtr, System.IntPtr, int, int)
+  fullName: JeremyAnsel.BcnSharp.Bc3Sharp.Encode(nint, nint, int, int)
   fullName.vb: JeremyAnsel.BcnSharp.Bc3Sharp.Encode(System.IntPtr, System.IntPtr, Integer, Integer)
-  nameWithType: Bc3Sharp.Encode(IntPtr, IntPtr, int, int)
+  nameWithType: Bc3Sharp.Encode(nint, nint, int, int)
   nameWithType.vb: Bc3Sharp.Encode(IntPtr, IntPtr, Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc3Sharp.Encode*
   name: Encode
@@ -202,13 +202,13 @@ references:
   nameWithType: Bc5Sharp.Decode(byte[], int, int)
   nameWithType.vb: Bc5Sharp.Decode(Byte(), Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc5Sharp.Decode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
-  name: Decode(IntPtr, IntPtr, int, int)
+  name: Decode(nint, nint, int, int)
   href: api/JeremyAnsel.BcnSharp.Bc5Sharp.html#JeremyAnsel_BcnSharp_Bc5Sharp_Decode_System_IntPtr_System_IntPtr_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.BcnSharp.Bc5Sharp.Decode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
   name.vb: Decode(IntPtr, IntPtr, Integer, Integer)
-  fullName: JeremyAnsel.BcnSharp.Bc5Sharp.Decode(System.IntPtr, System.IntPtr, int, int)
+  fullName: JeremyAnsel.BcnSharp.Bc5Sharp.Decode(nint, nint, int, int)
   fullName.vb: JeremyAnsel.BcnSharp.Bc5Sharp.Decode(System.IntPtr, System.IntPtr, Integer, Integer)
-  nameWithType: Bc5Sharp.Decode(IntPtr, IntPtr, int, int)
+  nameWithType: Bc5Sharp.Decode(nint, nint, int, int)
   nameWithType.vb: Bc5Sharp.Decode(IntPtr, IntPtr, Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc5Sharp.Decode*
   name: Decode
@@ -236,13 +236,13 @@ references:
   nameWithType: Bc5Sharp.Encode(byte[], int, int)
   nameWithType.vb: Bc5Sharp.Encode(Byte(), Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc5Sharp.Encode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
-  name: Encode(IntPtr, IntPtr, int, int)
+  name: Encode(nint, nint, int, int)
   href: api/JeremyAnsel.BcnSharp.Bc5Sharp.html#JeremyAnsel_BcnSharp_Bc5Sharp_Encode_System_IntPtr_System_IntPtr_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.BcnSharp.Bc5Sharp.Encode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
   name.vb: Encode(IntPtr, IntPtr, Integer, Integer)
-  fullName: JeremyAnsel.BcnSharp.Bc5Sharp.Encode(System.IntPtr, System.IntPtr, int, int)
+  fullName: JeremyAnsel.BcnSharp.Bc5Sharp.Encode(nint, nint, int, int)
   fullName.vb: JeremyAnsel.BcnSharp.Bc5Sharp.Encode(System.IntPtr, System.IntPtr, Integer, Integer)
-  nameWithType: Bc5Sharp.Encode(IntPtr, IntPtr, int, int)
+  nameWithType: Bc5Sharp.Encode(nint, nint, int, int)
   nameWithType.vb: Bc5Sharp.Encode(IntPtr, IntPtr, Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc5Sharp.Encode*
   name: Encode
@@ -340,13 +340,13 @@ references:
   nameWithType: Bc7Sharp.Decode(byte[], int, int)
   nameWithType.vb: Bc7Sharp.Decode(Byte(), Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
-  name: Decode(IntPtr, IntPtr, int, int)
+  name: Decode(nint, nint, int, int)
   href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Decode_System_IntPtr_System_IntPtr_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
   name.vb: Decode(IntPtr, IntPtr, Integer, Integer)
-  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.IntPtr, System.IntPtr, int, int)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(nint, nint, int, int)
   fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.Decode(System.IntPtr, System.IntPtr, Integer, Integer)
-  nameWithType: Bc7Sharp.Decode(IntPtr, IntPtr, int, int)
+  nameWithType: Bc7Sharp.Decode(nint, nint, int, int)
   nameWithType.vb: Bc7Sharp.Decode(IntPtr, IntPtr, Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc7Sharp.Decode*
   name: Decode
@@ -374,13 +374,13 @@ references:
   nameWithType: Bc7Sharp.Encode(byte[], int, int)
   nameWithType.vb: Bc7Sharp.Encode(Byte(), Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
-  name: Encode(IntPtr, IntPtr, int, int)
+  name: Encode(nint, nint, int, int)
   href: api/JeremyAnsel.BcnSharp.Bc7Sharp.html#JeremyAnsel_BcnSharp_Bc7Sharp_Encode_System_IntPtr_System_IntPtr_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.IntPtr,System.IntPtr,System.Int32,System.Int32)
   name.vb: Encode(IntPtr, IntPtr, Integer, Integer)
-  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.IntPtr, System.IntPtr, int, int)
+  fullName: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(nint, nint, int, int)
   fullName.vb: JeremyAnsel.BcnSharp.Bc7Sharp.Encode(System.IntPtr, System.IntPtr, Integer, Integer)
-  nameWithType: Bc7Sharp.Encode(IntPtr, IntPtr, int, int)
+  nameWithType: Bc7Sharp.Encode(nint, nint, int, int)
   nameWithType.vb: Bc7Sharp.Encode(IntPtr, IntPtr, Integer, Integer)
 - uid: JeremyAnsel.BcnSharp.Bc7Sharp.Encode*
   name: Encode
