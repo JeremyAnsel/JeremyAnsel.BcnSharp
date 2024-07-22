@@ -147,7 +147,7 @@ extern "C" __declspec(dllexport) int BC5_Decode(const char* pBlock, char* pPixel
 
 					pPixelsRGBA[sourceOffset + 2] = block[destinationOffset + 0];
 					pPixelsRGBA[sourceOffset + 0] = block[destinationOffset + 2];
-					pPixelsRGBA[sourceOffset + 3] = 0xff;
+					pPixelsRGBA[sourceOffset + 3] = (char)0xff;
 				}
 			}
 
