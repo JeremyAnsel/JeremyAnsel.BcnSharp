@@ -18,7 +18,11 @@
           "relative_path": "api/JeremyAnsel.BcnSharp.Bc3Sharp.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.BcnSharp.Bc3Sharp",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -28,7 +32,11 @@
           "relative_path": "api/JeremyAnsel.BcnSharp.Bc5Sharp.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.BcnSharp.Bc5Sharp",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -38,7 +46,11 @@
           "relative_path": "api/JeremyAnsel.BcnSharp.Bc7Sharp.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.BcnSharp.Bc7Sharp",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -48,7 +60,11 @@
           "relative_path": "api/JeremyAnsel.BcnSharp.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.BcnSharp",
+      "Summary": null
     },
     {
       "type": "Conceptual",
