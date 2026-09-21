@@ -53,6 +53,11 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <PackagePath>build</PackagePath>
     </None>
+    <None Include="..\x64\$(Configuration)\Static\JeremyAnsel.BcnSharpLib64.lib">
+      <Pack>true</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <PackagePath>build</PackagePath>
+    </None>
     <None Include="JeremyAnsel.BcnSharp.targets">
       <PackagePath>build</PackagePath>
       <Pack>true</Pack>

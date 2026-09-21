@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <ItemGroup>
+  <ItemGroup Condition="'$(PublishAot)' != 'true' Or '$(RuntimeIdentifier)' != 'win-x64'">
     <None Include="$(MSBuildThisFileDirectory)JeremyAnsel.BcnSharpLib32.dll">
       <Link>JeremyAnsel.BcnSharpLib32.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -9,5 +9,9 @@
       <Link>JeremyAnsel.BcnSharpLib64.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+  <ItemGroup Condition="'$(PublishAot)' == 'true' And '$(RuntimeIdentifier)' == 'win-x64'">
+    <DirectPInvoke Include="JeremyAnsel.BcnSharpLib64" />
+    <NativeLibrary Include="$(MSBuildThisFileDirectory)JeremyAnsel.BcnSharpLib64.lib" />
   </ItemGroup>
 </Project>
