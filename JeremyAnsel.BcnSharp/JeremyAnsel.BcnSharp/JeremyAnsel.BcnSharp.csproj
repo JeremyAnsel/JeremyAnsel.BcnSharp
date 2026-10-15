@@ -44,16 +44,19 @@
 
   <ItemGroup>
     <None Include="..\$(Configuration)\JeremyAnsel.BcnSharpLib32.dll">
+      <Visible>false</Visible>
       <Pack>true</Pack>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <PackagePath>build</PackagePath>
     </None>
     <None Include="..\x64\$(Configuration)\JeremyAnsel.BcnSharpLib64.dll">
+      <Visible>false</Visible>
       <Pack>true</Pack>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <PackagePath>build</PackagePath>
     </None>
     <None Include="..\x64\$(Configuration)\Static\JeremyAnsel.BcnSharpLib64.lib">
+      <Visible>false</Visible>
       <Pack>true</Pack>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <PackagePath>build</PackagePath>

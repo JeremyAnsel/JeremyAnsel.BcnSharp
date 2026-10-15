@@ -2,10 +2,12 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Condition="'$(PublishAot)' != 'true' Or '$(RuntimeIdentifier)' != 'win-x64'">
     <None Include="$(MSBuildThisFileDirectory)JeremyAnsel.BcnSharpLib32.dll">
+      <Visible>false</Visible>
       <Link>JeremyAnsel.BcnSharpLib32.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="$(MSBuildThisFileDirectory)JeremyAnsel.BcnSharpLib64.dll">
+      <Visible>false</Visible>
       <Link>JeremyAnsel.BcnSharpLib64.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
